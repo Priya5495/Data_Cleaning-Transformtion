@@ -1,6 +1,6 @@
 
 # Data Analytics – Module 1: Excel
-## Excel Assignment 2 – Data Exploration and Data Cleaning
+## Excel Assignment 2 – Data Cleaning and Data transformation
 
 ### 📌 Project Overview
 This project focuses on exploring, cleaning, transforming, and preparing a Product Dataset using Microsoft Excel and Power Query.
